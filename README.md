@@ -29,15 +29,15 @@ I'm learning how to clean, analyze, and visualize data using modern tools and te
 
 ##### Skill
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google%20analytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=flat&logo=microsoft-word&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
 
 🚀 **My Goals:**
 - Build real-world projects that turn raw data into clear, actionable insights
@@ -49,5 +49,7 @@ You’ll find notebooks, mini-projects, visualizations, and experiments — all 
 
 📫 Feel free to connect or drop suggestions — I'm always open to feedback and collaboration!
 
-![😎 Click Here](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdyeDA2eTNkNjN5ODh3MmJsNnR0aWMxbmJvNjhxMjNoOGszajY2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif)
 
+### 🐍 
+
+![snake gif](https://raw.githubusercontent.com/MartianoYero/MartianoYero/output/github-contribution-grid-snake.svg)
