@@ -49,7 +49,5 @@ You’ll find notebooks, mini-projects, visualizations, and experiments — all 
 
 📫 Feel free to connect or drop suggestions — I'm always open to feedback and collaboration!
 
+![😎 Click Here](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjdyeDA2eTNkNjN5ODh3MmJsNnR0aWMxbmJvNjhxMjNoOGszajY2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SvckSy7fFviqrq8ClF/giphy.gif)
 
-### 🐍 
-
-![snake gif](https://raw.githubusercontent.com/MartianoYero/MartianoYero/output/github-contribution-grid-snake.svg)
